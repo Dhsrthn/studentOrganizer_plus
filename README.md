@@ -10,3 +10,9 @@ Your google calendar stays logged in until your refresh_token's validity runs ou
 2.Can add assignments, with deadlines and mark them as incomplete or complete and view them in list view aswell. <br />
 3.Can manage your expenses, with 10 categories too, where you can also set limit for eachc ategory (whose panel card's color gets automatically updated on the spent/limit ratio, which defaults to white when no limit is set). <br />
 4.Can reset all expense details and set them to 0.
+
+### To do
+1. Go to clientFiles directory and run command 'npm i' to install dependencies
+2. Do the same in serverFiles directory
+3. Add .env file in serverFiles root
+4. Also requires a local mongoDB connection to run 
