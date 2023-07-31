@@ -8,7 +8,7 @@ Your google calendar stays logged in until your refresh_token's validity runs ou
 
 1.Can add events, and view upcoming events for the next three days in list view, and in calendar view, view all your google calendar events and assignment deadlines. <br />
 2.Can add assignments, with deadlines and mark them as incomplete or complete and view them in list view aswell. <br />
-3.Can manage your expenses, with 10 categories too, where you can also set limit for eachc ategory (whose panel card's color gets automatically updated on the spent/limit ratio, which defaults to white when no limit is set). <br />
+3.Can manage your expenses, with 10 categories too, where you can also set limit for each category (whose panel card's color gets automatically updated on the spent/limit ratio, which defaults to white when no limit is set). <br />
 4.Can reset all expense details and set them to 0.
 
 ### To do
