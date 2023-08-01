@@ -16,4 +16,5 @@ Your google calendar stays logged in until your refresh_token's validity runs ou
 2. Do the same in serverFiles directory
 3. Run 'npm run start' in clientFiles directory and 'npm run dev' in serverFiles directory to get them both running
 4. Add .env file in serverFiles root
-5. Also requires a local mongoDB connection to run 
+5. Also requires a local mongoDB connection to run
+6. neeeds local server of mongodb to run rn
