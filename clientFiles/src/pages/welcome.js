@@ -135,12 +135,12 @@ const WelcomePage = () => {
                                     <label>Username: </label>
                                     <input type="text" value={logUserName} onChange={(event) => {
                                         setlogUserName(event.target.value)
-                                    }} />
+                                    }} required/>
                                     <br />
                                     <label>Password: </label>
                                     <input type="password" value={logPassword} onChange={(event) => {
                                         setlogPassword(event.target.value)
-                                    }} />
+                                    }} required/>
                                     <br />
                                     <button >Submit</button>
                                 </form>
@@ -169,12 +169,12 @@ const WelcomePage = () => {
                                     <label>Username: </label>
                                     <input type="text" value={regUserName} onChange={(event) => {
                                         setRegUserName(event.target.value)
-                                    }} />
+                                    }} required/>
                                     <br />
                                     <label>Password: </label>
                                     <input type="password" value={regPassword} onChange={(event) => {
                                         setRegPassword(event.target.value)
-                                    }} />
+                                    }} required/>
                                     <br />
                                     <button>Submit</button>
                                     {
